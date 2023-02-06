@@ -1,4 +1,4 @@
 double sum(int a, int b)
 {
-  return c;
+  return 0;
 }
